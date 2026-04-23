@@ -1,1 +1,1 @@
-print("Olá Guzazo!")
+print("Olá Guzazo, bom dia!")
